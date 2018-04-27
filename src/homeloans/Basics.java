@@ -7,7 +7,11 @@ public class Basics {
 		System.out.println("Hello world");
 		
 System.out.println("Hi");
+
 System.out.println("how r u");
+
+System.out.println("i am joined");
+
 	}
 	
 	
